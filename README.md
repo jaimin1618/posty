@@ -2,7 +2,7 @@
 <b>Open your terminal</b> <br>
 <b>Go to project folder</b> <br>
 <b>Write this command in terminal: <i>php artisan serve</i></b>
-<p>You also need to configure your MySQL admin panel from .env.example </p>
+<p>You also need to configure your database from .env.example </p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
